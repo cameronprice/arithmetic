@@ -1,0 +1,6 @@
++def div(a,b):
+ +    anser = b/a
+ +    return (awnser)
+ +    
+ +print (div(12/4))
+ +#expected outcome 3
